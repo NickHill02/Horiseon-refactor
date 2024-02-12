@@ -32,7 +32,7 @@ THEN I find a concise, descriptive title
 
 After completing the challenge, the website should appear the same. Links will work as expected and the HTML and CSS file should be clean and easily understood. To view the completed site click 
 
-![alt text](./images/01-html-css-git-homework-demo.png)
+![alt text](./assets/images/01-html-css-git-homework-demo.png)
 
 
 ## Credits
